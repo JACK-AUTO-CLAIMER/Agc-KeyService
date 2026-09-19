@@ -108,5 +108,11 @@
         "expirydate": "01-01-2028",
         "Allowoffline": false
     }
+{
+        "device_id": "CC7EAFA877294985",
+        "key": "HARSHXMOD-V6#XX",
+        "expirydate": "02-09-2020",
+        "Allowoffline": false
+    },
 
 ]
