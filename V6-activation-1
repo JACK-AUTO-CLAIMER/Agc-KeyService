@@ -73,14 +73,20 @@
         "Allowoffline": false
     },
 {
-        "device_id": "4D94E27622260122",
+        "device_id": "C7AB8EBE5E26DE8D",
         "key": "Harsh#Mod-V6#0099",
         "expirydate": "01-01-2028",
-        "Allowoffline": false
+        "Allowoffline": "false"
     },
 {
         "device_id": "0B26A1A059074FAA",
         "key": "Harsh-xmod#v630000",
+        "expirydate": "01-01-2028",
+        "Allowoffline": false
+},
+{
+        "device_id": "4D94E27622260122",
+        "key": "Harsh#Mod-V6#0099",
         "expirydate": "01-01-2028",
         "Allowoffline": false
     },
